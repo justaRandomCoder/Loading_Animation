@@ -1,0 +1,1 @@
+# A simple loading animation to use when needed.
